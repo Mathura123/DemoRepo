@@ -1,0 +1,4 @@
+C:\Users\Mayur\source\repos\CabInvoiceNUintTests\obj\Debug\netcoreapp3.1\CabInvoiceNUintTests.csprojAssemblyReference.cache
+C:\Users\Mayur\source\repos\CabInvoiceNUintTests\obj\Debug\netcoreapp3.1\CabInvoiceNUintTests.AssemblyInfoInputs.cache
+C:\Users\Mayur\source\repos\CabInvoiceNUintTests\obj\Debug\netcoreapp3.1\CabInvoiceNUintTests.AssemblyInfo.cs
+C:\Users\Mayur\source\repos\CabInvoiceNUintTests\obj\Debug\netcoreapp3.1\CabInvoiceNUintTests.csproj.CoreCompileInputs.cache
